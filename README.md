@@ -10,4 +10,4 @@ Indicative Main Screen of the app:
 
 The full report (written in Greek) is here: [Report.pdf](https://github.com/KostasLoukas/Archaeologists_App_Flutter/files/9275252/Report.pdf)
 
-Created by: [Konstantinos Loukas](https://github.com/KostasLoukas), [Giwrgos Kapelos](https://github.com/GiwrgosKapelos) and 
+Created by: [Konstantinos Loukas](https://github.com/KostasLoukas), [Giwrgos Kapelos](https://github.com/GiwrgosKapelos) and [Karapiperakis Emmanouil](https://github.com/MKarapiperakis).
