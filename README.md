@@ -1,4 +1,4 @@
-The purpose of this Android Application is the insertion, editing and deletion of Stratigraphic Units of archaeological excavations along with their inclusive Skeletons.
+The purpose of this Android Application is the insertion, editing and deletion of Stratigraphic Units from archaeological excavations along with their inclusive Skeletons.
 It was developed using the Flutter framework and packages through the VSCode coding environment.
 
 
